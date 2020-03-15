@@ -13,10 +13,5 @@
    "repository":  "ScorpionRom-Devices/vendor_google",
    "target_path": "vendor/google",
    "branch":      "sr-3.x"
- },
- {
-   "repository":  "gitlab.com/DirtyUnicorns/android_vendor_images",
-   "target_path": "vendor/images",
-   "branch":      "q10x"
  }
 ]
