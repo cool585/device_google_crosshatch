@@ -13,5 +13,10 @@
    "repository":  "ScorpionRom-Devices/vendor_google",
    "target_path": "vendor/google",
    "branch":      "sr-3.x"
+ },
+ {
+   "repository":  "vendor_img_crosshatch",
+   "target_path": "vendor/images/crosshatch",
+   "branch":      "sr-3.x"
  }
 ]
