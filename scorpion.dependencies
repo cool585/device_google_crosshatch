@@ -18,5 +18,15 @@
    "repository":  "vendor_img_crosshatch",
    "target_path": "vendor/images/crosshatch",
    "branch":      "sr-3.x"
+ },
+ {
+   "repository":  "DirtyUnicorns/android_external_json-c",
+   "target_path": "external/json-c",
+   "branch":      "q10x"
+ },
+ {
+   "repository":  "DirtyUnicorns/android_vendor_qcom_opensource_thermal-engine",
+   "target_path": "vendor/qcom/opensource/thermal-engine",
+   "branch":      "q10x"
  }
 ]
